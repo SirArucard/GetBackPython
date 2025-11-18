@@ -12,3 +12,5 @@ To keep the source code clean, explanations are documented here.
 | `ex02_retire.py` | Conditionals (if/elif/else) and logical operators (and/or) |
 | `ex03_table.py` | Loops using `range()` and iteration |
 | `ex04_lists.py` | Creating lists and analyzing the data |
+| `ex05_dicto.py` | Manipulating data in Dictionary |
+| `ex06_funcs.py` | How to use functions |

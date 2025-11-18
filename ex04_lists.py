@@ -7,3 +7,4 @@ print(f"Maior numero: {max(listinha)}")
 print(f"Menor numero: {min(listinha)}")
 print(f"A soma é: {sum(listinha)}")
 print(f"Organizadin: {sorted(listinha)}")
+
